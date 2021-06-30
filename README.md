@@ -1,2 +1,2 @@
-I am only use this GitHub for ThoughtWorks Projects, my personal respository is @Wilton-Garcia
+I am only use this GitHub for Thoughtworks projects, my personal respository is @Wilton-Garcia
 
